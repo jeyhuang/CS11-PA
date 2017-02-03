@@ -1,11 +1,11 @@
 /*************************************************************************
 /* WeightBox.java 
- * Author: Philip Papadopoulos
- * Course: CSE11 Fall 2013
+ * Author: JENNY HUANG
+ * Course: CSE11 
  * Assignment: Program #1
  *
- * Date Written: 1  October 2013
- * Last Modified: 1 October 2013
+ * Date Written: 29 January 2017
+ * Last Modified: 29 January 2017
  *
  * Description: 
  *		Implements the WeightBox class, a box at the end of a rope

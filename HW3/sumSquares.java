@@ -1,3 +1,17 @@
+/************************************************************
+			sumSquares.Java
+*************************************************************
+Author: JENNY HUANG
+Course: CSE11
+Assignment: Assignment 2
+
+Date Written: 30 January 2017
+Last Modified: 30 January 2017
+
+Description: This program that takes two arguments  called
+	low and high and computes the sume of the squares of
+	the integer in the range [low, high].
+************************************************************/
 import java.lang.Math;
 
 public class sumSquares {

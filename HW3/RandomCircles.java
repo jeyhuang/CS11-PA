@@ -1,3 +1,19 @@
+/************************************************************
+			sumSquares.Java
+*************************************************************
+Author: JENNY HUANG
+Course: CSE11
+Assignment: Assignment 2
+
+Date Written: 30 January 2017
+Last Modified: 30 January 2017
+
+Description: This program takes two command line arguments 
+	and draws the number of (randomly-colored) circles 
+	indicaed by the first argument onto a square canvas 
+	size defined by the second argument.
+	
+************************************************************/
 import objectdraw.*;
 import java.awt.*;
 

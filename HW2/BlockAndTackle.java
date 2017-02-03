@@ -1,10 +1,10 @@
 /* BlockAndTackle.java 
- * Author: Philip Papadopoulos
- * Course: CSE11 Fall 2013
+ * Author: JENNY HUANG
+ * Course: CSE11
  * Assignment: Program #1
  *
- * Date Written: 1  October 2013
- * Last Modified: 1 October 2013
+ * Date Written: 29 January 2017
+ * Last Modified: 29 January 2017
  *
  * Description: A program that produces an animation of two weight blocks
  * 		on either side of a pulley. When you click on the left side
