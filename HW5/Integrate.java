@@ -7,8 +7,6 @@
 /* Description: this program calculates the area under a curve
 using trapezoidal integration
  ****************************************************************/
-import java.awt.*;
-
 public class Integrate {
   private static double area1 = 0.0;
   private static double area2 = 0.0;

@@ -7,7 +7,6 @@
 /* Description: This program takes an integer argument from the 
 /*   command line and determines if a number is prime.
  *******************************************************************/
-import java.awt.*;
 import java.lang.Math;
 
 public class isPrime {
